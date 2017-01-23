@@ -1,14 +1,8 @@
 # osdb-api
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure\ClojureScript api for opensubtitles.org subs db.
+In stalled development.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Currently not available through clojars.
